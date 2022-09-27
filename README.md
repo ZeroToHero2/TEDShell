@@ -157,7 +157,7 @@ supplied by the user; if `chdir` fails, that is also an error.
   `path` command always overwrites the old path with the newly specified
   path. 
 
-### Redirection
+### Redirection.
 
 Many times, a shell user prefers to send the output of a program to a file
 rather than to the screen. Usually, a shell provides this nice feature with
